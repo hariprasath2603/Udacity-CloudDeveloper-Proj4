@@ -1,4 +1,8 @@
 # Udacity ToDos Serverless project
+* Best practices are implemented
+* Auth0 - Asymmetric RS256
+* ToDo - Creation, Deletion, Upload, Modify are added
+
 
 ## Project Components
 - Restful API (Lambda Functions, API Gateway and DynamoDb)
@@ -23,7 +27,7 @@ npm run start
 ## Deplyment details
 API Endpoint
 ```
-https://e2mg7iqieb.execute-api.us-east-1.amazonaws.com/dev/todos
+https://wu55ljs6g6.execute-api.us-east-1.amazonaws.com/dev/todos
 ```
 Postman Collection
 ```
